@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pamelazinha22
 - 👀 I’m interested in eu estou enteressada em aprender novas linguagens.
-- 🌱 I’m currently learning ...eu estou eprendendo a programarrecentemente a linguagem de JavaScript e Scrath
+- 🌱 I’m currently learning ...eu estou eprendendo a programar recentemente a linguagem de JavaScript e Scrath
 - 💞️ 
 
 <!---
